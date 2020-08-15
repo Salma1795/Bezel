@@ -1,0 +1,84 @@
+*
+{
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+ul li{
+    list-style: none;
+    padding-bottom: 1rem;
+}
+
+.background img{
+    width: 100%;
+    height: 100%;
+}
+.carousel{
+    height: 100vh !important;
+}
+.content{
+    position: absolute;
+    top: 30%;   
+}
+.content h1{
+    font-size: 6.5rem;
+}
+.content p{
+    font-size: 1.5rem;
+}
+
+.scroll{
+    position: absolute;
+    left: 0%;
+    top: 30%;
+}
+.scroll i{
+    display: block;
+}
+.cards {
+    width: 100%;
+    padding: 0px 40px;
+    padding-top: 50px;
+}
+.card{
+    height: 90%;
+    font-size: 1.5rem;    
+}
+.card-body span{
+    font-size: 5rem;
+}
+.gold{
+    color: #00c3da;
+}
+/* services*/
+.services{
+    background-color: #6d6a6a;
+}
+.services-p{
+    line-height: 2.5rem;
+}
+
+.shapes i{
+    font-size: 3.5rem;
+    color: teal;
+}
+/* customers */
+.customers{
+    width: 60%;
+    height: 60%;
+    background-color: white; 
+}
+.customers img{
+    width: 5rem;
+    height: 5rem;
+}
+
+/* letters */
+.title h2{
+    font-size: 5rem;
+    font-weight: bold;
+    color: #f1f1f1;
+}
+.title h3{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
